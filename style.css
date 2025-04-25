@@ -14,6 +14,13 @@ background-color:  #2F4858;
   font-size: 84px;
 }
 
+.vidus p:first-of-type {
+  position: absolute;
+  left: 105px;
+  top: 762px;
+  margin: 0;
+}
+
 .vidus img[src="lap.png"] {
   position: absolute;
   left: 578px;
