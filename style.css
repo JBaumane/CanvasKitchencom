@@ -24,10 +24,10 @@ nam.png{
   height: 425px;
 }
 
-zem.png{
-  
-  
-  text-align: center;
+.vidus img[src="zem.png"] {
+  position: absolute;
+  left: 97px;
+  top: 337px;
 }
 .skmlg {
   text-align: center;
