@@ -19,6 +19,7 @@ background-color:  #2F4858;
   left: 105px;
   top: 762px;
   margin: 0;
+  text-align: center;
 }
 
 .vidus img[src="lap.png"] {
@@ -43,20 +44,4 @@ background-color:  #2F4858;
 }
 .error{
   text-align: center;
-}
-.cursor {
-  position: absolute;
-  width: 48px;
-  height: 48px;
-  top: 50%;
-  left: 50%;
-  margin: -24px 0 0 -24px;
-  border: 3px solid #F26419;
-  border-radius: 100px;
-  backface-visibility: hidden;
-  transition: transform 0.3s ease-out;
-
-  &.is-moving {
-    transform: scale(0.7);
-  }
 }
