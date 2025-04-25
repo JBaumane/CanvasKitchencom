@@ -1,4 +1,53 @@
 html {
-  height: 100%;
-  width: 100%;
+  height: 1224px;
+  width: 1440px;
+  background-color: #86BBD8;
+
+}
+.apakša{
+color: #FFFFFF;
+background-color:  #2F4858;
+  background-size: 1440px;
+}
+.vidus{
+  text-align: center;
+  font-size: 84px;
+}
+
+lap.png{
+  width: 283.33px;
+  height: 425px;
+  text-align: center;
+}
+nam.png{
+  width: 319px;
+  height: 425px;
+}
+
+zem.png{
+  
+  
+  text-align: center;
+}
+.skmlg {
+  text-align: center;
+}
+.error{
+  text-align: center;
+}
+.cursor {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  top: 50%;
+  left: 50%;
+  margin: -24px 0 0 -24px;
+  border: 3px solid #F26419;
+  border-radius: 100px;
+  backface-visibility: hidden;
+  transition: transform 0.3s ease-out;
+
+  &.is-moving {
+    transform: scale(0.7);
+  }
 }
