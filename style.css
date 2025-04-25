@@ -14,14 +14,16 @@ background-color:  #2F4858;
   font-size: 84px;
 }
 
-lap.png{
-  width: 283.33px;
-  height: 425px;
-  text-align: center;
+.vidus img[src="lap.png"] {
+  position: absolute;
+  left: 578px;
+  top: 337px;
 }
-nam.png{
-  width: 319px;
-  height: 425px;
+
+.vidus img[src="nam.png"] {
+  position: absolute;
+  left: 1004px;
+  top: 337px;
 }
 
 .vidus img[src="zem.png"] {
