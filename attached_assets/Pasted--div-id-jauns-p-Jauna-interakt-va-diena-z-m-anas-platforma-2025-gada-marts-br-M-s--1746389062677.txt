@@ -1,0 +1,61 @@
+ <div id="jauns">
+<p>
+  Jauna interaktīva ēdiena zīmēšanas platforma! (2025. gada marts)<br>
+
+  Mēs esam uzlabojuši mūsu digitālo zīmēšanas audeklu, lai jūsu ēdiena idejas būtu vēl detalizētākas un precīzākas! Tagad pieejamas:<br>
+  Plašāka krāsu palete, lai varētu attēlot dažādus ēdiena toņus un faktūras<br>
+  Jaunas otas un zīmēšanas rīki, kas palīdz izveidot sarežģītākas formas<br>
+  Iespēja pievienot anotācijas un paskaidrojumus, lai mūsu pavāri labāk saprastu jūsu vīziju<br>
+
+  Nāciet un pamēģiniet šo jauno rīku gan mūsu studijā, gan tiešsaistē no savām mājām!</p>
+
+
+
+ <p> Iknedēļas šefpavāra iedvesmotā recepte! (2025. gada marts)<br>
+
+  Mūsu šefpavāre Evi ir sagatavojusi jaunu izaicinājumu – katru nedēļu viņa izvēlēsies vienu no klientu iesniegtajiem ēdiena zīmējumiem un izveidos tam precīzu recepti!<br>
+  Jūs uzzīmējat ēdienu, kādu vēlaties nogaršot
+  Mēs izstrādājam recepti, kas atbilst jūsu redzējumam<br>
+  Jūs varat to pagatavot mājās vai atnākt uz mūsu studiju un to nobaudīt<br>
+
+  Šīs nedēļas recepte: Mango-čilli pastas bļoda ar kokosriekstu putām, iedvesmota no mūsu klienta Annas zīmējuma!</p>
+
+
+
+  <p>Tagad pieejams arī attālināts meistarklases formāts! (2025. gada februāris)<br>
+
+  Līdz šim mūsu klienti varēja nākt uz Canvas Kitchen studiju, lai kopā ar mūsu pavāriem gatavotu ēdienus pēc saviem zīmējumiem. Taču mēs esam spēruši soli tālāk un piedāvājam attālināto meistarklašu iespēju!<br>
+
+  Zīmējiet savu sapņu ēdienu mūsu mājaslapā
+  Mēs izstrādājam pielāgotu recepti un sagatavojam detalizētu video instrukciju<br>
+  Jūs saņemat piegādātas sastāvdaļas un varat to pagatavot mājās, sekot līdzi video<br>
+
+  Ideāli piemērots tiem, kuri vēlas unikālu kulinārijas pieredzi savā virtuvē!</p>
+
+
+
+  <p>Konkurss: Uzzīmē un laimē! (2025. gada janvāris)<br>
+
+  Vai tev ir oriģināla ēdiena ideja? Tagad tev ir iespēja ne tikai to realizēt, bet arī laimēt vērtīgas balvas!<br>
+
+  Kā piedalīties?<br>
+  Uzzīmē savu unikālo ēdiena ideju – tas var būt jebkas, no desertiem līdz sarežģītiem pamatēdieniem!<br>
+  Iesniedz savu zīmējumu mūsu mājaslapā līdz 31. janvārim<br>
+  Mūsu komanda izvēlēsies TOP 3 radošākās un garšīgākās idejas<br>
+  Uzvarētājs saņems bezmaksas meistarklasi un viņa ēdienam tiks dots viņa vārds mūsu studijas ēdienkartē!<br>
+
+  Šī ir tava iespēja kļūt par daļu no Canvas Kitchen vēstures! </p>
+
+
+
+  <p>Ilgtspējīgas ēdienkartes iniciatīva! (2024. gada decembris)<br>
+
+  Mēs ticam, ka garšīgs ēdiens var būt arī draudzīgs planētai! Tāpēc Canvas Kitchen uzsāk jaunu ilgtspējīgas ēdienkartes iniciatīvu, kuras ietvaros mēs:<br>
+
+  Izmantojam sezonālos un vietējos produktus, lai atbalstītu vietējos lauksaimniekus<br>
+  Veicinām augu valsts ēdienus un samazinām pārtikas atkritumus<br>
+  Piedāvājam iespēju klientiem izvēlēties videi draudzīgas alternatīvas viņu radītajām receptēm<br>
+
+  Mūsu pirmais ilgtspējīgais meistardarbs – zaļo lēcu un baklažānu burgeris ar mājas gatavotu bietes majonēzi! Nāc un izmēģini!<br>
+</p>
+</div>
