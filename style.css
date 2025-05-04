@@ -56,6 +56,8 @@ background-color:  #2F4858;
   top: 762px;
   margin: 0;
   text-align: center;
+  width: 303px;
+  height: 134px;
 }
 .vidus p:nth-of-type(2) {
   position: absolute;
@@ -63,6 +65,8 @@ background-color:  #2F4858;
   top: 762px;
   margin: 0;
   text-align: center;
+  width: 303px;
+  height: 134px;
 }
 .vidus p:nth-of-type(3) {
   position: absolute;
@@ -70,6 +74,8 @@ background-color:  #2F4858;
   top: 762px;
   margin: 0;
   text-align: center;
+  width: 303px;
+  height: 134px;
 }
 
 .vidus img[src="lap.png"] {
