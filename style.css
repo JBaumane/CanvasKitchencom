@@ -29,12 +29,37 @@ background-color:  #2F4858;
   padding: 10px 15px;
   margin: 0px;
 }
+.bildes1 ul{
+  text-align: center;
+  list-style-type: none;
+  padding: 0;
+  margin: 0
+  
+}
+.bildes1 li{
+  float: left;
+  padding: 64px 10px;
+  margin: 0px;
+}
+.bildes2 ul{
+  text-align: center;
+  list-style-type: none;
+  padding: 0;
+  margin: 0
+  
+}
+.bildes2 li{
+  float: left;
+  padding: 64px 10px;
+  margin: 0px;
+}
 .navig ul{
   list-style-type: none;
   background-color: #F6AE2D;
   padding: 0;
   margin: 0;
   overflow: hidden;
+ 
 }
 .navig a{
   color: #2F4858;
