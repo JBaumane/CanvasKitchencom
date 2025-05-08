@@ -9,6 +9,16 @@ body{
   background-color: #86BBD8;
   background-size: 1440px;
 }
+
+#nosaukts{
+  color: #000000;
+  text-align: right;
+  top: 400px;
+  padding: 30px 10px;
+  margin: 0px;
+  font-size: 128px;
+}
+
 #linijtp{
   width: 1440px;
   height: 1px;
@@ -38,7 +48,7 @@ background-color:  #2F4858;
 }
 .bildes1 li{
   float: left;
-  padding: 64px 10px;
+  padding: 10px 44px;
   margin: 0px;
 }
 .bildes1::after {
@@ -55,7 +65,7 @@ background-color:  #2F4858;
 }
 .bildes2 li{
   float: left;
-  padding: 64px 10px;
+  padding: 10px 44px;
   margin: 0px;
 }
 .bildes2::after {
