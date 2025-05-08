@@ -33,13 +33,18 @@ background-color:  #2F4858;
   text-align: center;
   list-style-type: none;
   padding: 0;
-  margin: 0
-  
+  margin: 0;
+  overflow: hidden;
 }
 .bildes1 li{
   float: left;
   padding: 64px 10px;
   margin: 0px;
+}
+.bildes1::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 .bildes2 ul{
   text-align: center;
