@@ -12,10 +12,13 @@ body{
 
 #nosaukts{
   color: #000000;
-  text-align: right;
+  position: absolute;
+  left: 923px;
+  top: 120px;
   padding: 30px 10px;
   margin: 0px;
   font-size: 128px;
+  z-index: 1;
 }
 
 #linijtp{
@@ -42,7 +45,7 @@ background-color:  #2F4858;
   text-align: center;
   list-style-type: none;
   padding: 0;
-  margin: 0;
+  margin-top: 200px;
   overflow: hidden;
 }
 .bildes1 li{
