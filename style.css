@@ -12,8 +12,9 @@ body{
 
 #nosaukts{
   color: #000000;
-  text-align: right;
-  top: 400px;
+  position: absolute;
+  left: 923px;
+  top: 120px;
   padding: 30px 10px;
   margin: 0px;
   font-size: 128px;
