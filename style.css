@@ -12,12 +12,13 @@ body{
 
 .navdown ul{
   list-style-type: none;
-  width: 548px;
+  width: 100%;
   background-color: #F6AE2D;
   padding: 0;
   margin: 0;
   overflow: hidden;
-  float: right;
+  display: flex;
+  justify-content: flex-end;
 }
 
 .navdown a{
@@ -29,9 +30,9 @@ body{
   font-size: 32px;
 }
 .navdown li{
-  float: left;
   padding: 10px 15px;
-  margin: 0px
+  margin: 0px;
+  display: inline-block;
 }
 
 
