@@ -10,6 +10,10 @@ body{
   background-size: 1440px;
 }
 
+iframe{
+  padding: 20px;
+}
+
 .navdown ul{
   list-style-type: none;
   width: 45%;
