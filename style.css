@@ -50,13 +50,18 @@ background-color:  #2F4858;
   text-align: center;
   list-style-type: none;
   padding: 0;
-  margin: 0
-  
+  margin: 0;
+  overflow: hidden;
 }
 .bildes2 li{
   float: left;
   padding: 64px 10px;
   margin: 0px;
+}
+.bildes2::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 .navig ul{
   list-style-type: none;
