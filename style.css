@@ -1,16 +1,12 @@
 html {
-  height: 100%;
+  height: 1224px;
+  width: 1440px;
   background-color: #86BBD8;
 }
 body{
-  margin: 0 auto;
+  margin: 0;
   background-color: #86BBD8;
-  max-width: 1440px;
-  width: 100%;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  background-size: 1440px;
 }
 
 iframe{
@@ -53,10 +49,13 @@ iframe{
 
 #nosaukts{
   color: #000000;
-  text-align: right;
-  padding: 10px 40px;
-  margin-bottom: -40px;
+  position: absolute;
+  left: 923px;
+  top: 120px;
+  padding: 30px 10px;
+  margin: 0px;
   font-size: 128px;
+  z-index: 1;
 }
 
 #linijtp{
@@ -127,21 +126,17 @@ background-color:  #2F4858;
   padding: 0;
   margin: 0;
   overflow: hidden;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  width: 100%;
 }
 .navig a{
   color: #2F4858;
   text-decoration: none;
-  padding: 30px 40px;
+  padding: 30px 75px;
   display: block;
   text-align: center;
-  font-size: clamp(24px, 4vw, 32px);
+  font-size: 32px;
 }
 .navig li{
-  display: inline-block;
+  float: left;
 }
 .vidus{
   text-align: center;
