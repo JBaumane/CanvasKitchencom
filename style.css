@@ -79,39 +79,46 @@ background-color:  #2F4858;
   padding: 10px 15px;
   margin: 0px;
 }
-.bildes1 ul{
-  text-align: center;
+.bildes1 ul, .bildes2 ul {
+  display: flex;
   list-style-type: none;
-  padding: 0;
-  margin-top: 200px;
-  overflow: hidden;
-}
-.bildes1 li{
-  float: left;
-  padding: 10px 44px;
-  margin: 0px;
-}
-.bildes1::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-.bildes2 ul{
-  text-align: center;
-  list-style-type: none;
-  padding: 0;
+  padding: 20px;
   margin: 0;
-  overflow: hidden;
+  overflow-x: auto;
+  scroll-behavior: smooth;
 }
-.bildes2 li{
-  float: left;
-  padding: 10px 44px;
-  margin: 0px;
+
+.bildes1 li, .bildes2 li {
+  flex: 0 0 auto;
+  padding: 10px;
+  cursor: pointer;
+  transition: transform 0.3s;
 }
-.bildes2::after {
-  content: "";
-  clear: both;
-  display: table;
+
+.bildes1 img, .bildes2 img {
+  max-width: 100%;
+  height: auto;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.9);
+  z-index: 1000;
+}
+
+.modal-content {
+  margin: auto;
+  display: block;
+  max-width: 90%;
+  max-height: 90vh;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
 }
 .navig ul{
   list-style-type: none;
