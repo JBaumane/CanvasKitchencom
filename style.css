@@ -50,13 +50,10 @@ iframe{
 
 #nosaukts{
   color: #000000;
-  position: absolute;
-  left: 923px;
-  top: 120px;
-  padding: 30px 10px;
+  text-align: right;
+  padding: 30px 40px;
   margin: 0px;
   font-size: 128px;
-  z-index: 1;
 }
 
 #linijtp{
@@ -83,9 +80,10 @@ background-color:  #2F4858;
   display: flex;
   list-style-type: none;
   padding: 20px;
-  margin: 0;
+  margin-top: 50px;
   overflow-x: auto;
   scroll-behavior: smooth;
+  justify-content: center;
 }
 
 .bildes1 li, .bildes2 li {
