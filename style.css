@@ -2,6 +2,7 @@ html {
   height: 1224px;
   width: 1440px;
   background-color: #86BBD8;
+
 }
 body{
   margin: 0;
@@ -49,13 +50,10 @@ iframe{
 
 #nosaukts{
   color: #000000;
-  position: absolute;
-  left: 923px;
-  top: 120px;
-  padding: 30px 10px;
-  margin: 0px;
+  text-align: right;
+  padding: 10px 40px;
+  margin-bottom: -40px;
   font-size: 128px;
-  z-index: 1;
 }
 
 #linijtp{
@@ -126,6 +124,7 @@ background-color:  #2F4858;
   padding: 0;
   margin: 0;
   overflow: hidden;
+ 
 }
 .navig a{
   color: #2F4858;
@@ -161,9 +160,8 @@ background-color:  #2F4858;
 }
 
 .vidus img {
-  max-width: 319px;
-  width: 100%;
-  height: auto;
+  width: 319px;
+  height: 425px;
   margin-bottom: 20px;
 }
 
